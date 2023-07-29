@@ -47,28 +47,28 @@
     ],
   "non kopi": [
     {
-      "foto": "/bahan/64537bad3284d.jpg",
+      "foto": "bahan/64537bad3284d.jpg",
       "nama": "Air Minetal",
       "size": "1000Gram",
       "harga": "15.000",
       "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
         },
     {
-      "foto": "/images/produk/01465168467makanan-ringan.jpg",
+      "foto": "images/produk/01465168467makanan-ringan.jpg",
       "nama": "Makanan Ringan",
       "size": "100 Gram",
       "harga": "2.000",
       "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
         },
          {
-      "foto": "/bahan/83fac025-5afa-47c3-b3ef-af8e82c8f09c.jpg",
+      "foto": "bahan/83fac025-5afa-47c3-b3ef-af8e82c8f09c.jpg",
       "nama": "Sabun Mandi",
       "size": "100 Gram",
       "harga": "35.000",
       "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
         },
     {
-      "foto": "/bahan/d1e9e4538666afd4a8866e3c4ec7c479.jpeg",
+      "foto": "bahan/d1e9e4538666afd4a8866e3c4ec7c479.jpeg",
       "nama": "Shampo",
       "size": "1000 Gram",
       "harga": "25.000",
